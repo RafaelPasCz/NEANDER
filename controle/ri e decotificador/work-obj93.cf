@@ -1,0 +1,19 @@
+v 4
+file . "registradorcarga8bits.vhdl" "35db9ef9b954dcd6f4cefdc1f3959791e4270495" "20230719004702.117":
+  entity regcarga8bit at 1( 0) + 0 on 89;
+  architecture reg8bit of regcarga8bit at 12( 242) + 0 on 90;
+file . "registradorcarga.vhdl" "873c26b2d0bb1bd9f4dc1af5166460326c77e00e" "20230719004702.115":
+  entity regcarga at 1( 0) + 0 on 87;
+  architecture reg1bit of regcarga at 14( 253) + 0 on 88;
+file . "ffjk.vhdl" "cb79cf6a7cd84ec970c074d71ad08e71b1624065" "20230719004702.114":
+  entity ffjk at 1( 0) + 0 on 85;
+  architecture latch of ffjk at 13( 258) + 0 on 86;
+file . "ffd.vhdl" "702d2d8151fb36e050a1fda5d31fa80731daef5e" "20230719004702.113":
+  entity ffd at 62( 1355) + 0 on 83;
+  architecture latch of ffd at 74( 1612) + 0 on 84;
+file . "decodificador.vhdl" "daab15aa0bb077bd68cd22aaf90b259ef646e59d" "20230719004702.112":
+  entity decod at 1( 0) + 0 on 81;
+  architecture decodar of decod at 20( 526) + 0 on 82;
+file . "tb_decod.vhdl" "e86498cb2b0dba49d9089161e0963a9f98aa7d87" "20230719004702.118":
+  entity tbdecod at 1( 0) + 0 on 91;
+  architecture tb of tbdecod at 7( 81) + 0 on 92;
