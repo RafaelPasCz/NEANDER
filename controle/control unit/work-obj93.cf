@@ -1,0 +1,82 @@
+v 4
+file . "hltuc.vhdl" "91514c7808cf4f65b9dc054d30794fc50893fe24" "20230725193840.018":
+  entity hltuc at 1( 0) + 0 on 2627;
+  architecture hlt of hltuc at 12( 210) + 0 on 2628;
+file . "control_unit_TUDOJUNTO.vhdl" "518b6365519513f49be7176317a90e4e1c352c15" "20230725193840.017":
+  entity controlunit at 1( 0) + 0 on 2621;
+  architecture controle of controlunit at 14( 340) + 0 on 2622;
+file . "tb_jnuc.vhdl" "d00701aba7c2f6a089cda334a4303096c1f727e3" "20230725193840.029":
+  entity tbnuc at 1( 0) + 0 on 2653;
+  architecture testi of tbnuc at 7( 87) + 4 on 2654;
+file . "tb_jmpuc.vhdl" "c393f18e29e961f0619ded97c32a187116bff3e3" "20230725193840.028":
+  entity tbjmpuc at 1( 0) + 0 on 2651;
+  architecture teste of tbjmpuc at 7( 89) + 4 on 2652;
+file . "jnjzfalsouc.vhdl" "037c3502e49c129c6b3a89335156630bf20fdaa1" "20230721191540.955":
+  entity jnjzfalsouc at 1( 0) + 0 on 397;
+  architecture jnjz of jnjzfalsouc at 19( 498) + 0 on 398;
+file . "oruc.vhdl" "870e41c7c9bc7fef800022b928059ac4ccd5901e" "20230725193840.024":
+  entity oruc at 1( 0) + 0 on 2641;
+  architecture ora of oruc at 21( 573) + 0 on 2642;
+file . "anduc.vhdl" "245a14d319b801e3df0213b993bd879b8c331b02" "20230725193840.015":
+  entity anduc at 1( 0) + 0 on 2617;
+  architecture anda of anduc at 11( 213) + 0 on 2618;
+file . "notuc.vhdl" "8e5f5bd3f06e762b414ca437b54e3d4d04e3d903" "20230725193840.023":
+  entity notuc at 1( 0) + 0 on 2639;
+  architecture noti of notuc at 20( 569) + 0 on 2640;
+file . "tb_nopuc.vhdl" "10f5b33b11f0c2952f5b347943603e32efa76e6d" "20230725193840.032":
+  entity tbnopuc at 1( 0) + 0 on 2659;
+  architecture teste of tbnopuc at 7( 89) + 4 on 2660;
+file . "nopuc.vhdl" "731850f831aaec32805be7433467355a7a61ec22" "20230725193840.022":
+  entity nopuc at 1( 0) + 0 on 2637;
+  architecture nop of nopuc at 20( 569) + 0 on 2638;
+file . "ldauc.vhdl" "83a8d0837f4ec6b58b89dd1c3f3ae291834e28f8" "20230725193840.021":
+  entity ldauc at 1( 0) + 0 on 2635;
+  architecture lda of ldauc at 11( 213) + 0 on 2636;
+file . "fft.vhdl" "51c3d3d16ca671933223d1c99634d2c2455cb2f9" "20230725193840.018":
+  entity fft at 1( 0) + 0 on 2625;
+  architecture latch of fft at 13( 257) + 0 on 2626;
+file . "tb_contador.vhdl" "6601f7fcd4cbd1326a5917f6192af505d02bea68" "20230725193840.026":
+  entity tbcontador at 1( 0) + 0 on 2647;
+  architecture teste of tbcontador at 7( 84) + 0 on 2648;
+file . "contador3bit.vhdl" "c32692a3755fcaec71ef7d70a514a315b1258f59" "20230725193840.016":
+  entity contador3bit at 1( 0) + 0 on 2619;
+  architecture contar of contador3bit at 12( 248) + 0 on 2620;
+file . "ffjk.vhdl" "cb79cf6a7cd84ec970c074d71ad08e71b1624065" "20230725193840.017":
+  entity ffjk at 1( 0) + 0 on 2623;
+  architecture latch of ffjk at 13( 258) + 0 on 2624;
+file . "tb_ldauc.vhdl" "02ffaf8841cf311bd10b096edcb718abe38f6307" "20230725193840.031":
+  entity tbldauc at 1( 0) + 0 on 2657;
+  architecture teste of tbldauc at 7( 81) + 0 on 2658;
+file . "stauc.vhdl" "01292baeaf87c4acbcf1b9e8f6c28f463a3dc869" "20230725193840.025":
+  entity stauc at 1( 0) + 0 on 2643;
+  architecture sta of stauc at 20( 570) + 0 on 2644;
+file . "tb_stauc.vhdl" "c1433cd7b95fb1b3d43ccfa09d479e33052455b0" "20230725193840.033":
+  entity tbstauc at 1( 0) + 0 on 2663;
+  architecture teste of tbstauc at 7( 89) + 4 on 2664;
+file . "tb_notuc.vhdl" "6bce8805987c39f27b2f39e14dd132e5e8f705c1" "20230725193840.032":
+  entity tbnotuc at 1( 0) + 0 on 2661;
+  architecture teste of tbnotuc at 7( 89) + 4 on 2662;
+file . "adduc.vhdl" "65a985c33f70243c1edb46cd6847b80cb3d5040b" "20230725193840.015":
+  entity adduc at 1( 0) + 0 on 2615;
+  architecture add of adduc at 20( 569) + 0 on 2616;
+file . "tb_adduc.vhdl" "29fa448db1fea216100e170084cf8e0b13c1ef24" "20230725193840.026":
+  entity tbadduc at 1( 0) + 0 on 2645;
+  architecture teste of tbadduc at 7( 89) + 4 on 2646;
+file . "jmpuc.vhdl" "707c7cbd77dbd8007a341c972a789d9dc8e65075" "20230725193840.019":
+  entity jmpuc at 1( 0) + 0 on 2629;
+  architecture jmp of jmpuc at 20( 573) + 0 on 2630;
+file . "tb_jnjzfalse.vhdl" "3b2b46ef9c4ba180b6497cfe26745a407cb4a76c" "20230721191540.995":
+  entity tbjnjzfalsouc at 1( 0) + 0 on 415;
+  architecture teste of tbjnjzfalsouc at 7( 95) + 4 on 416;
+file . "jnuc.vhdl" "0d9bf57902b668a125c7f6d0c5e13682852edee4" "20230725193840.020":
+  entity jnuc at 1( 0) + 0 on 2631;
+  architecture jn of jnuc at 12( 247) + 0 on 2632;
+file . "jzuc.vhdl" "80fff4af48ee127faad41bdb3c90815af205df6d" "20230725193840.021":
+  entity jzuc at 1( 0) + 0 on 2633;
+  architecture jz of jzuc at 21( 607) + 0 on 2634;
+file . "tb_jzuc.vhdl" "2f7b2555e28f4b4da1a66c8fdbfb588810fe57b4" "20230725193840.030":
+  entity tbjzuc at 1( 0) + 0 on 2655;
+  architecture testi of tbjzuc at 7( 88) + 4 on 2656;
+file . "tb_controlunitTUDOJUNTO.vhdl" "4542f308f492b284f5acaa4bd1bc8d60360c9d7d" "20230725193840.027":
+  entity tbcontrolunit at 1( 0) + 0 on 2649;
+  architecture teste of tbcontrolunit at 7( 87) + 0 on 2650;

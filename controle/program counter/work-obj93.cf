@@ -1,0 +1,25 @@
+v 4
+file . "somador8bitsLAT.vhdl" "e1afab7c443dfe1eca44aee8097219377ddc21c8" "20230717203130.600":
+  entity somador8bits at 1( 0) + 0 on 85;
+  architecture somagem of somador8bits at 14( 330) + 0 on 86;
+file . "somador.vhdl" "1fce9e3b72eeb919a1c3f251bb57bd4584acfe72" "20230717203130.600":
+  entity somadorsimples at 1( 0) + 0 on 83;
+  architecture somar of somadorsimples at 14( 252) + 0 on 84;
+file . "registradorcarga8bits.vhdl" "35db9ef9b954dcd6f4cefdc1f3959791e4270495" "20230717203130.599":
+  entity regcarga8bit at 1( 0) + 0 on 81;
+  architecture reg8bit of regcarga8bit at 12( 242) + 0 on 82;
+file . "registradorcarga.vhdl" "873c26b2d0bb1bd9f4dc1af5166460326c77e00e" "20230717203130.598":
+  entity regcarga at 1( 0) + 0 on 79;
+  architecture reg1bit of regcarga at 14( 253) + 0 on 80;
+file . "program_counter.vhdl" "ebf8ca421c62c6738165e3e467375e85b48883b5" "20230717203130.598":
+  entity programcounter at 1( 0) + 0 on 77;
+  architecture pc of programcounter at 15( 346) + 0 on 78;
+file . "ffjk.vhdl" "cb79cf6a7cd84ec970c074d71ad08e71b1624065" "20230717203130.597":
+  entity ffjk at 1( 0) + 0 on 75;
+  architecture latch of ffjk at 13( 258) + 0 on 76;
+file . "ffd.vhdl" "702d2d8151fb36e050a1fda5d31fa80731daef5e" "20230717203130.596":
+  entity ffd at 62( 1355) + 0 on 73;
+  architecture latch of ffd at 74( 1612) + 0 on 74;
+file . "testbenchpc.vhdl" "d561b7a2924bde9fa294e730bb864d1cae34165a" "20230717203130.601":
+  entity testbenchpc at 1( 0) + 0 on 87;
+  architecture teste of testbenchpc at 7( 85) + 0 on 88;
