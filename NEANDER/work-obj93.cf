@@ -1,0 +1,127 @@
+v 4
+file . "tb_neander.vhdl" "f6d330cd00645c3d2fda18b484778955527417a4" "20230726191845.437":
+  entity tbneander at 1( 0) + 0 on 3707;
+  architecture teste of tbneander at 7( 83) + 0 on 3708;
+file . "ulona.vhdl" "8f404191e5cdb561a6cf3fc64a3b27af173b1612" "20230726191845.438":
+  entity ulona at 1( 0) + 0 on 3709;
+  architecture ular of ulona at 16( 391) + 0 on 3710;
+file . "AND8bits.vhdl" "e15153703a24e4687a1c0ac13cb76aec673989d0" "20230726191845.405":
+  entity and8bits at 1( 0) + 0 on 3637;
+  architecture behavior of and8bits at 12( 251) + 0 on 3638;
+file . "detector.vhdl" "78d65b032e21df64993205a24cccef41b2d35163" "20230704141629.030":
+  entity detect at 1( 0) + 0 on 807;
+  architecture detectar of detect at 11( 170) + 0 on 808;
+file . "ffd.vhdl" "702d2d8151fb36e050a1fda5d31fa80731daef5e" "20230726191845.412":
+  entity ffd at 62( 1355) + 0 on 3649;
+  architecture latch of ffd at 74( 1612) + 0 on 3650;
+file . "ffjk.vhdl" "cb79cf6a7cd84ec970c074d71ad08e71b1624065" "20230726191845.413":
+  entity ffjk at 1( 0) + 0 on 3651;
+  architecture latch of ffjk at 13( 258) + 0 on 3652;
+file . "LDA8bits.vhdl" "e95b5de8911f8482841dcb80dede2d5103a72750" "20230726191845.418":
+  entity lda8bits at 1( 0) + 0 on 3663;
+  architecture lda of lda8bits at 11( 203) + 0 on 3664;
+file . "miniula.vhdl" "2befcd49777cf87afc3063bb26e5ca4a5ade4d63" "20230726191845.420":
+  entity miniula at 1( 0) + 0 on 3669;
+  architecture roger of miniula at 14( 341) + 0 on 3670;
+file . "mux2x8.vhdl" "c2f1b8f0fa8faacd194c7b916649a6b1efc574bb" "20230726191845.422":
+  entity mux2x8esp at 3( 12) + 0 on 3671;
+  architecture comuta of mux2x8esp at 15( 295) + 0 on 3672;
+file . "muxula.vhdl" "02d4dd24c742a4e3f136152a73d67b92f6e2822e" "20230726191845.423":
+  entity muxula at 1( 0) + 0 on 3673;
+  architecture muxacao of muxula at 18( 484) + 0 on 3674;
+file . "NOT8bits.vhdl" "e70ea5989802df5f2d57899b401615fb3cae70f4" "20230726191845.425":
+  entity not8bits at 1( 0) + 0 on 3679;
+  architecture behavior of not8bits at 12( 204) + 0 on 3680;
+file . "OR8bits.vhdl" "674caabc05440e397e2b3e8f619cd3d198344fc0" "20230726191845.426":
+  entity or8bits at 1( 0) + 0 on 3683;
+  architecture behavior of or8bits at 12( 246) + 0 on 3684;
+file . "registradorcarga.vhdl" "873c26b2d0bb1bd9f4dc1af5166460326c77e00e" "20230726191845.428":
+  entity regcarga at 1( 0) + 0 on 3689;
+  architecture reg1bit of regcarga at 14( 253) + 0 on 3690;
+file . "registradorcarga2bits.vhdl" "031cda8b060b6bb955151462ca61a7279e0bddbd" "20230726191845.429":
+  entity regcarga2bit at 1( 0) + 0 on 3691;
+  architecture reg2bit of regcarga2bit at 12( 242) + 0 on 3692;
+file . "registradorcarga8bits.vhdl" "35db9ef9b954dcd6f4cefdc1f3959791e4270495" "20230726191845.430":
+  entity regcarga8bit at 1( 0) + 0 on 3693;
+  architecture reg8bit of regcarga8bit at 12( 242) + 0 on 3694;
+file . "somador.vhdl" "1fce9e3b72eeb919a1c3f251bb57bd4584acfe72" "20230726191845.433":
+  entity somadorsimples at 1( 0) + 0 on 3701;
+  architecture somar of somadorsimples at 14( 252) + 0 on 3702;
+file . "somador8bitsLAT.vhdl" "e1afab7c443dfe1eca44aee8097219377ddc21c8" "20230726191845.435":
+  entity somador8bits at 1( 0) + 0 on 3703;
+  architecture somagem of somador8bits at 14( 330) + 0 on 3704;
+file . "tb_NEANDER_00-ULA.vhdl" "89435036835a9458b46de13cff67aaa0acf3e1dd" "20230725214308.431":
+  entity tb_moduloula at 24( 1103) + 0 on 977;
+  architecture quickmath of tb_moduloula at 30( 1196) + 0 on 978;
+file . "tb__ula.vhdl" "f8c187a0d3c01eea208c7e93ad522c5f7f5bc18e" "20230704141629.051":
+  entity tb_ula_meu at 1( 0) + 0 on 837;
+  architecture lule of tb_ula_meu at 7( 84) + 0 on 838;
+file . "adduc.vhdl" "57fb8397b23b4f69331e5c8354438bedbfa7de51" "20230726191845.404":
+  entity adduc at 1( 0) + 0 on 3635;
+  architecture add of adduc at 20( 569) + 0 on 3636;
+file . "anduc.vhdl" "245a14d319b801e3df0213b993bd879b8c331b02" "20230726191845.406":
+  entity anduc at 1( 0) + 0 on 3639;
+  architecture anda of anduc at 11( 213) + 0 on 3640;
+file . "as_ram.vhdl" "3f73ba77f28abe495e9836860db5e4964f04d021" "20230726191845.409":
+  entity as_ram at 2( 42) + 0 on 3641;
+  architecture behavior of as_ram at 16( 325) + 0 on 3642;
+file . "contador3bit.vhdl" "c32692a3755fcaec71ef7d70a514a315b1258f59" "20230726191845.410":
+  entity contador3bit at 1( 0) + 0 on 3643;
+  architecture contar of contador3bit at 12( 248) + 0 on 3644;
+file . "control_unit_TUDOJUNTO.vhdl" "518b6365519513f49be7176317a90e4e1c352c15" "20230726191845.411":
+  entity controlunit at 1( 0) + 0 on 3645;
+  architecture controle of controlunit at 14( 340) + 0 on 3646;
+file . "decodificador.vhdl" "b6aea5cf83a60992eb6ded12fa31ae31f693cbc3" "20230726191845.411":
+  entity decod at 1( 0) + 0 on 3647;
+  architecture decodar of decod at 21( 612) + 0 on 3648;
+file . "fft.vhdl" "51c3d3d16ca671933223d1c99634d2c2455cb2f9" "20230726191845.414":
+  entity fft at 1( 0) + 0 on 3653;
+  architecture latch of fft at 13( 257) + 0 on 3654;
+file . "hltuc.vhdl" "91514c7808cf4f65b9dc054d30794fc50893fe24" "20230726191845.414":
+  entity hltuc at 1( 0) + 0 on 3655;
+  architecture hlt of hltuc at 12( 210) + 0 on 3656;
+file . "jmpuc.vhdl" "707c7cbd77dbd8007a341c972a789d9dc8e65075" "20230726191845.415":
+  entity jmpuc at 1( 0) + 0 on 3657;
+  architecture jmp of jmpuc at 20( 573) + 0 on 3658;
+file . "jnuc.vhdl" "0d9bf57902b668a125c7f6d0c5e13682852edee4" "20230726191845.416":
+  entity jnuc at 1( 0) + 0 on 3659;
+  architecture jn of jnuc at 12( 247) + 0 on 3660;
+file . "jzuc.vhdl" "80fff4af48ee127faad41bdb3c90815af205df6d" "20230726191845.417":
+  entity jzuc at 1( 0) + 0 on 3661;
+  architecture jz of jzuc at 21( 607) + 0 on 3662;
+file . "ldauc.vhdl" "c30c06f1d1246a183526c4ce3f90d9d9b3415a27" "20230726191845.419":
+  entity ldauc at 1( 0) + 0 on 3665;
+  architecture lda of ldauc at 11( 213) + 0 on 3666;
+file . "MEMORIATUDOJUNTO.vhdl" "30a401983ee90841d9b53ac6ce800c20c38d2960" "20230726191845.419":
+  entity memoriajunto at 1( 0) + 0 on 3667;
+  architecture meme of memoriajunto at 23( 710) + 0 on 3668;
+file . "neander.vhdl" "7797a6c55f6f284b513549107d5f98d5d2fd7442" "20230726191845.424":
+  entity neander at 1( 0) + 0 on 3675;
+  architecture neanderizar of neander at 11( 163) + 0 on 3676;
+file . "nopuc.vhdl" "731850f831aaec32805be7433467355a7a61ec22" "20230726191845.424":
+  entity nopuc at 1( 0) + 0 on 3677;
+  architecture nop of nopuc at 20( 569) + 0 on 3678;
+file . "notuc.vhdl" "8e5f5bd3f06e762b414ca437b54e3d4d04e3d903" "20230726191845.425":
+  entity notuc at 1( 0) + 0 on 3681;
+  architecture noti of notuc at 20( 569) + 0 on 3682;
+file . "oruc.vhdl" "870e41c7c9bc7fef800022b928059ac4ccd5901e" "20230726191845.427":
+  entity oruc at 1( 0) + 0 on 3685;
+  architecture ora of oruc at 21( 573) + 0 on 3686;
+file . "program_counter.vhdl" "371123dafd5f2d1c0dabd4f98bd8f781b74b0109" "20230726191845.428":
+  entity programcounter at 1( 0) + 0 on 3687;
+  architecture pc of programcounter at 15( 349) + 0 on 3688;
+file . "registradorRDM.vhdl" "221baad052b4cb4fe558f8c8c1a97ba6a257fda8" "20230726191845.431":
+  entity registradorrdm at 1( 0) + 0 on 3695;
+  architecture rdm of registradorrdm at 14( 310) + 0 on 3696;
+file . "registradorREM.vhdl" "d3ceb2db92b27f56b8112fbb69f8490cc90f39c9" "20230726191845.432":
+  entity registradorrem at 1( 0) + 0 on 3697;
+  architecture roger of registradorrem at 14( 308) + 0 on 3698;
+file . "registradorri.vhdl" "136b49aad01726e5e0933c50197b604ba6f0bf3d" "20230726191845.433":
+  entity registradorri at 1( 0) + 0 on 3699;
+  architecture ri of registradorri at 13( 306) + 0 on 3700;
+file . "stauc.vhdl" "875de1b1cd7673363bf10d74c090e17c65865005" "20230726191845.436":
+  entity stauc at 1( 0) + 0 on 3705;
+  architecture sta of stauc at 20( 570) + 0 on 3706;
+file . "unidade de controle.vhdl" "a5bb1703d03b656e84d12d76960a556f1570cf16" "20230726191845.439":
+  entity unidadedecontrole at 1( 0) + 0 on 3711;
+  architecture controle of unidadedecontrole at 18( 489) + 0 on 3712;
